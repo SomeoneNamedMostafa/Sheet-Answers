@@ -1,8 +1,0 @@
-list1= (list(range(6)))
-list2= (list(range(4,11,2)))  
-list3= (list(range(10,5,-1))) 
-list4= (list(range(10,-11,-5)))  
-print(list1)
-print(list2)
-print(list3)
-print(list4)
